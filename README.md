@@ -10,7 +10,6 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) web applic
 5. [Contributing](#contributing)
 6. [Initial Contributor](#initial-contributor)
 7. [Acknowledgments](#acknowledgments)
-8. [Contact Information](#contact-information)
  
 ## Prerequisites
 
