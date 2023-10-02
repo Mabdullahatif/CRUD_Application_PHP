@@ -2,17 +2,15 @@
 # Book Catalog CRUD Application in PHP
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) web application written in PHP for managing a book catalog. It allows you to add, edit, and delete books from a MySQL database.
-Here is a table of contents for your Book Catalog CRUD Application in PHP documentation:
 ## Table of Contents
-1. [Introduction](#book-catalog-crud-application-in-php)
-2. [Prerequisites](#prerequisites)
-3. [Setup](#setup)
-4. [Features](#features)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [Initial Contributor](#initial-contributor)
-8. [Acknowledgments](#acknowledgments)
-9. [Contact Information](#contact-information)
+1. [Prerequisites](#prerequisites)
+2. [Setup](#setup)
+3. [Features](#features)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [Initial Contributor](#initial-contributor)
+7. [Acknowledgments](#acknowledgments)
+8. [Contact Information](#contact-information)
  
 ## Prerequisites
 
